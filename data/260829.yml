@@ -1,0 +1,65 @@
+about:
+  description: Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
+  license: MIT
+  homepage: https://pwndbg.re/
+  head: 7d33563
+  archived: false
+  latestVersion: 2026.07.29
+  collectedAt: 2026-08-29T07:18:45Z
+timeline:
+  created: 2015-02-22
+  lastCommit: 2026-08-28
+  lastRelease: 2026-07-30
+popularity:
+  star: 10805
+  watcher: 126
+  fork: 1259
+  release: 26
+  contributor: 313
+  pullRequest: 388
+  issue: 1342
+language:
+  Python: 4671745
+  Shell: 44017
+  C: 42809
+  Nix: 31779
+  Makefile: 13329
+  Assembly: 7218
+  GDB: 2124
+  Dockerfile: 1490
+  C++: 430
+  Go: 406
+totalLine: 4815347
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 14
+    openPR: 8
+    closedIssue: 4
+    openIssue: 11
+    commit: 37
+  last90d:
+    since: 2026-05-31
+    release: 1
+    mergedPR: 79
+    openPR: 20
+    closedIssue: 15
+    openIssue: 16
+    commit: 123
+  last180d:
+    since: 2026-03-02
+    release: 1
+    mergedPR: 151
+    openPR: 20
+    closedIssue: 33
+    openIssue: 28
+    commit: 209
+  last360d:
+    since: 2025-09-03
+    release: 5
+    mergedPR: 465
+    openPR: 23
+    closedIssue: 114
+    openIssue: 81
+    commit: 533
