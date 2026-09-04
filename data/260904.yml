@@ -7,7 +7,7 @@ about:
   head: 51e94b3
   archived: false
   latestVersion: 2026.07.29
-  collectedAt: 2026-09-04T19:52:37Z
+  collectedAt: 2026-09-04T20:51:11Z
 timeline:
   created: 2015-02-22
   lastCommit: 2026-09-04
@@ -15,7 +15,7 @@ timeline:
 popularity:
   star: 10831
   watcher: 127
-  fork: 1262
+  fork: 1263
   release: 26
   contributor: 314
   pullRequest: 2734
@@ -89,6 +89,89 @@ total:
   openIssue: 198
   commit: 3165
 ---
+path: /home/runner/.x-repo/github.com/pwndbg/pwndbg
+collectedAt: 2026-09-04T20:51:26Z
+loc:
+  Python:
+    code: 113402
+    comments: 7146
+    blanks: 16980
+    files: 450
+  Sh:
+    code: 1341
+    comments: 135
+    blanks: 273
+    files: 24
+  C:
+    code: 1238
+    comments: 214
+    blanks: 336
+    files: 47
+  Nix:
+    code: 861
+    comments: 274
+    blanks: 73
+    files: 7
+  Assembly:
+    code: 326
+    comments: 45
+    blanks: 85
+    files: 16
+  Makefile:
+    code: 289
+    comments: 32
+    blanks: 91
+    files: 2
+  Yaml:
+    code: 278
+    comments: 72
+    blanks: 20
+    files: 4
+  Toml:
+    code: 264
+    comments: 30
+    blanks: 29
+    files: 1
+  Css:
+    code: 175
+    comments: 13
+    blanks: 19
+    files: 2
+  Dockerfile:
+    code: 28
+    comments: 13
+    blanks: 13
+    files: 1
+  JavaScript:
+    code: 25
+    comments: 3
+    blanks: 7
+    files: 1
+  Go:
+    code: 15
+    comments: 0
+    blanks: 3
+    files: 1
+  Cpp:
+    code: 14
+    comments: 3
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 7958
+    blanks: 4117
+    files: 243
+  Text:
+    code: 0
+    comments: 3
+    blanks: 1
+    files: 1
+total:
+  code: 118676
+  comments: 15997
+  blanks: 22102
+  files: 801
 ---
 date: "2026-08-24"
 repo:
