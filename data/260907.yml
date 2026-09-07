@@ -2,24 +2,24 @@ about:
   description: "Exploit Development and Reverse Engineering with GDB & LLDB Made Easy"
   license: MIT
   homepage: https://pwndbg.re/
-  head: f14054b
+  head: fd333a5
   archived: false
   latestVersion: "2026.07.29"
-  collectedAt: 2026-09-07T04:30:59Z
+  collectedAt: 2026-09-07T19:55:32Z
 timeline:
   created: 2015-02-22
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-07-30
 popularity:
-  star: 10835
+  star: 10839
   watcher: 128
-  fork: 1263
+  fork: 1264
   release: 26
   contributor: 316
-  pullRequest: 2741
-  issue: 1353
+  pullRequest: 2743
+  issue: 1354
 language:
-  Python: 4721056
+  Python: 4721394
   Shell: 55354
   C: 43813
   Nix: 31779
@@ -29,70 +29,70 @@ language:
   Dockerfile: 1490
   C++: 430
   Go: 406
-totalBytes: 4883227
+totalBytes: 4883565
 recent:
   last30d:
     since: 2026-08-08
     release: 0
-    mergedPR: 22
-    openPR: 11
+    mergedPR: 23
+    openPR: 12
     closedIssue: 6
-    openIssue: 18
-    commit: 59
+    openIssue: 19
+    commit: 60
   last60d:
     since: 2026-07-09
     release: 1
-    mergedPR: 51
-    openPR: 15
+    mergedPR: 52
+    openPR: 16
     closedIssue: 11
-    openIssue: 21
-    commit: 90
+    openIssue: 22
+    commit: 91
   last90d:
     since: 2026-06-09
     release: 1
-    mergedPR: 73
-    openPR: 18
+    mergedPR: 74
+    openPR: 19
     closedIssue: 16
-    openIssue: 23
-    commit: 126
+    openIssue: 24
+    commit: 127
   last180d:
     since: 2026-03-11
     release: 1
-    mergedPR: 163
-    openPR: 18
+    mergedPR: 164
+    openPR: 19
     closedIssue: 34
-    openIssue: 34
-    commit: 238
+    openIssue: 35
+    commit: 239
   last360d:
     since: 2025-09-12
     release: 5
-    mergedPR: 474
-    openPR: 21
+    mergedPR: 475
+    openPR: 22
     closedIssue: 113
-    openIssue: 88
-    commit: 559
+    openIssue: 89
+    commit: 560
   last720d:
     since: 2024-09-17
     release: 10
-    mergedPR: 993
-    openPR: 23
+    mergedPR: 994
+    openPR: 24
     closedIssue: 319
-    openIssue: 146
-    commit: 1092
+    openIssue: 147
+    commit: 1093
 total:
   release: 26
-  mergedPR: 2347
-  openPR: 23
+  mergedPR: 2348
+  openPR: 24
   closedIssue: 1154
-  openIssue: 199
-  commit: 3177
+  openIssue: 200
+  commit: 3178
 ---
 path: /home/runner/.x-repo/github.com/pwndbg/pwndbg
-collectedAt: 2026-09-07T04:31:44Z
+collectedAt: 2026-09-07T19:56:08Z
 loc:
   Python:
-    code: 113774
-    comments: 7172
+    code: 113779
+    comments: 7174
     blanks: 17107
     files: 451
   Sh:
@@ -166,8 +166,8 @@ loc:
     blanks: 1
     files: 1
 total:
-  code: 119497
-  comments: 16002
+  code: 119502
+  comments: 16004
   blanks: 22274
   files: 803
 ---
@@ -300,7 +300,7 @@ checks:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/base-image.yml:29'
 ---
 eget:
-  collectedAt: 2026-09-07T04:31:46+00:00
+  collectedAt: 2026-09-07T19:56:09+00:00
   platform:
     darwin/arm64:
       name:  pwndbg_2026.07.29_macos_arm64-portable.tar.xz
