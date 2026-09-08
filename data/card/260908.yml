@@ -5,7 +5,7 @@ about:
   head: 3e08c7b
   archived: false
   latestVersion: "2026.07.29"
-  collectedAt: 2026-09-08T01:43:27Z
+  collectedAt: 2026-09-08T04:29:25Z
 timeline:
   created: 2015-02-22
   lastCommit: 2026-09-08
@@ -88,7 +88,7 @@ total:
   commit: 3179
 ---
 path: /home/runner/.x-repo/github.com/pwndbg/pwndbg
-collectedAt: 2026-09-08T01:44:05Z
+collectedAt: 2026-09-08T04:30:11Z
 loc:
   Python:
     code: 113842
