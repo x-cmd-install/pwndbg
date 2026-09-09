@@ -2,28 +2,28 @@ about:
   description: "Exploit Development and Reverse Engineering with GDB & LLDB Made Easy"
   license: MIT
   homepage: https://pwndbg.re/
-  head: 2ee522e
+  head: 714c795
   archived: false
   latestVersion: "2026.07.29"
   latestRelease: "2026.07.29"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:39:16Z
+  collectedAt: 2026-09-09T18:40:22Z
 timeline:
   created: 2015-02-22
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-07-30
   lastRelease: 2026-07-30
   lastPrerelease: 
 popularity:
-  star: 10848
-  watcher: 129
+  star: 10850
+  watcher: 128
   fork: 1265
   release: 26
   contributor: 316
-  pullRequest: 2750
-  issue: 1355
+  pullRequest: 2752
+  issue: 1356
 language:
-  Python: 4728902
+  Python: 4727342
   Shell: 55354
   C: 43813
   Nix: 31779
@@ -33,71 +33,71 @@ language:
   Dockerfile: 1490
   C++: 430
   Go: 406
-totalBytes: 4891073
+totalBytes: 4889513
 recent:
   last30d:
     since: 2026-08-10
     release: 0
-    mergedPR: 24
-    openPR: 12
-    closedIssue: 5
+    mergedPR: 27
+    openPR: 10
+    closedIssue: 6
     openIssue: 20
-    commit: 62
+    commit: 66
   last60d:
     since: 2026-07-11
     release: 1
-    mergedPR: 53
-    openPR: 16
-    closedIssue: 11
+    mergedPR: 56
+    openPR: 14
+    closedIssue: 12
     openIssue: 23
-    commit: 93
+    commit: 97
   last90d:
     since: 2026-06-11
     release: 1
-    mergedPR: 75
-    openPR: 19
-    closedIssue: 16
+    mergedPR: 78
+    openPR: 17
+    closedIssue: 17
     openIssue: 25
-    commit: 129
+    commit: 133
   last180d:
     since: 2026-03-13
     release: 1
-    mergedPR: 166
-    openPR: 19
-    closedIssue: 35
+    mergedPR: 169
+    openPR: 17
+    closedIssue: 36
     openIssue: 35
-    commit: 241
+    commit: 245
   last360d:
     since: 2025-09-14
     release: 5
-    mergedPR: 475
-    openPR: 22
-    closedIssue: 113
+    mergedPR: 478
+    openPR: 20
+    closedIssue: 114
     openIssue: 89
-    commit: 562
+    commit: 566
   last720d:
     since: 2024-09-19
     release: 10
-    mergedPR: 989
-    openPR: 24
-    closedIssue: 319
+    mergedPR: 992
+    openPR: 22
+    closedIssue: 320
     openIssue: 147
-    commit: 1092
+    commit: 1096
 total:
   release: 26
-  mergedPR: 2350
-  openPR: 24
-  closedIssue: 1155
+  mergedPR: 2353
+  openPR: 22
+  closedIssue: 1156
   openIssue: 200
-  commit: 3180
+  commit: 3184
 ---
 path: /home/runner/.x-repo/github.com/pwndbg/pwndbg
-collectedAt: 2026-09-09T04:39:57Z
+collectedAt: 2026-09-09T18:41:05Z
 loc:
   Python:
-    code: 113849
-    comments: 7235
-    blanks: 17139
+    code: 113812
+    comments: 7244
+    blanks: 17102
     files: 451
   Sh:
     code: 1644
@@ -170,9 +170,9 @@ loc:
     blanks: 1
     files: 1
 total:
-  code: 119572
-  comments: 16065
-  blanks: 22306
+  code: 119535
+  comments: 16074
+  blanks: 22269
   files: 803
 ---
 date: "2026-09-07"
