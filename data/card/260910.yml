@@ -7,7 +7,7 @@ about:
   latestVersion: "2026.07.29"
   latestRelease: "2026.07.29"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:13:59Z
+  collectedAt: 2026-09-10T20:14:40Z
 timeline:
   created: 2015-02-22
   lastCommit: 2026-09-09
@@ -92,7 +92,7 @@ total:
   commit: 3184
 ---
 path: /home/runner/.x-repo/github.com/pwndbg/pwndbg
-collectedAt: 2026-09-10T16:14:37Z
+collectedAt: 2026-09-10T20:15:25Z
 loc:
   Python:
     code: 113812
