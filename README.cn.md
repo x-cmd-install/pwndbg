@@ -4,7 +4,7 @@
 
 Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 
-![pwndbg](https://repo.x-cmd.io/pwndbg.svg)
+![pwndbg](https://repo.x-cmd.io/pwndbg.svg?lang=zh)
 
 ## 安装
 
@@ -23,23 +23,63 @@ x install pwndbg
 - **最新版本**: `2026.07.29` (2026-07-30)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 36 个
-- **发布时间**: 2026-07-30T16:31:57Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [pwndbg-2026.07.29-1-aarch64.pkg.tar.zst](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-2026.07.29-1-aarch64.pkg.tar.zst) | 145.3 MiB | `other` |
+| [pwndbg-2026.07.29-1-x86_64.pkg.tar.zst](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-2026.07.29-1-x86_64.pkg.tar.zst) | 147.9 MiB | `other` |
+| [pwndbg-2026.07.29-1.aarch64.rpm](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-2026.07.29-1.aarch64.rpm) | 168.6 MiB | `runtime/rpm/aarch64` |
+| [pwndbg-2026.07.29-1.x86_64.rpm](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-2026.07.29-1.x86_64.rpm) | 171.5 MiB | `runtime/rpm/x86_64` |
+| [pwndbg-lldb-2026.07.29-1-aarch64.pkg.tar.zst](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-lldb-2026.07.29-1-aarch64.pkg.tar.zst) | 190.9 MiB | `other` |
+| [pwndbg-lldb-2026.07.29-1-x86_64.pkg.tar.zst](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-lldb-2026.07.29-1-x86_64.pkg.tar.zst) | 194.0 MiB | `other` |
+| [pwndbg-lldb-2026.07.29-1.aarch64.rpm](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-lldb-2026.07.29-1.aarch64.rpm) | 218.9 MiB | `runtime/rpm/aarch64` |
+| [pwndbg-lldb-2026.07.29-1.x86_64.rpm](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-lldb-2026.07.29-1.x86_64.rpm) | 222.0 MiB | `runtime/rpm/x86_64` |
+| [pwndbg-lldb_2026.07.29_aarch64.apk](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-lldb_2026.07.29_aarch64.apk) | 217.3 MiB | `other` |
+| [pwndbg-lldb_2026.07.29_amd64.deb](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-lldb_2026.07.29_amd64.deb) | 211.7 MiB | `runtime/deb/amd64` |
+| [pwndbg-lldb_2026.07.29_arm64-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-lldb_2026.07.29_arm64-portable.tar.xz) | 126.3 MiB | `other` |
+| [pwndbg-lldb_2026.07.29_arm64.deb](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-lldb_2026.07.29_arm64.deb) | 210.1 MiB | `runtime/deb/arm64` |
+| [pwndbg-lldb_2026.07.29_armv7-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-lldb_2026.07.29_armv7-portable.tar.xz) | 125.0 MiB | `other` |
+| [pwndbg-lldb_2026.07.29_loongarch64-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-lldb_2026.07.29_loongarch64-portable.tar.xz) | 85.6 MiB | `other` |
+| [pwndbg-lldb_2026.07.29_macos_amd64-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-lldb_2026.07.29_macos_amd64-portable.tar.xz) | 130.0 MiB | `native/darwin/x64` |
+| [pwndbg-lldb_2026.07.29_macos_arm64-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-lldb_2026.07.29_macos_arm64-portable.tar.xz) | 119.7 MiB | `native/darwin/arm64` |
+| [pwndbg-lldb_2026.07.29_powerpc64le-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-lldb_2026.07.29_powerpc64le-portable.tar.xz) | 148.9 MiB | `other` |
+| [pwndbg-lldb_2026.07.29_riscv64-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-lldb_2026.07.29_riscv64-portable.tar.xz) | 149.0 MiB | `other` |
+| [pwndbg-lldb_2026.07.29_s390x-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-lldb_2026.07.29_s390x-portable.tar.xz) | 141.6 MiB | `other` |
+| [pwndbg-lldb_2026.07.29_x86_32-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-lldb_2026.07.29_x86_32-portable.tar.xz) | 140.6 MiB | `other` |
+| [pwndbg-lldb_2026.07.29_x86_64-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-lldb_2026.07.29_x86_64-portable.tar.xz) | 134.7 MiB | `other` |
+| [pwndbg-lldb_2026.07.29_x86_64.apk](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg-lldb_2026.07.29_x86_64.apk) | 220.4 MiB | `other` |
+| [pwndbg_2026.07.29_aarch64.apk](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg_2026.07.29_aarch64.apk) | 167.0 MiB | `other` |
+| [pwndbg_2026.07.29_amd64.deb](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg_2026.07.29_amd64.deb) | 162.8 MiB | `runtime/deb/amd64` |
+| [pwndbg_2026.07.29_arm64-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg_2026.07.29_arm64-portable.tar.xz) | 97.1 MiB | `other` |
+| [pwndbg_2026.07.29_arm64.deb](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg_2026.07.29_arm64.deb) | 160.9 MiB | `runtime/deb/arm64` |
+| [pwndbg_2026.07.29_armv7-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg_2026.07.29_armv7-portable.tar.xz) | 94.4 MiB | `other` |
+| [pwndbg_2026.07.29_loongarch64-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg_2026.07.29_loongarch64-portable.tar.xz) | 56.0 MiB | `other` |
+| [pwndbg_2026.07.29_macos_amd64-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg_2026.07.29_macos_amd64-portable.tar.xz) | 98.7 MiB | `native/darwin/x64` |
+| [pwndbg_2026.07.29_macos_arm64-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg_2026.07.29_macos_arm64-portable.tar.xz) | 92.5 MiB | `native/darwin/arm64` |
+| [pwndbg_2026.07.29_powerpc64le-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg_2026.07.29_powerpc64le-portable.tar.xz) | 103.7 MiB | `other` |
+| [pwndbg_2026.07.29_riscv64-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg_2026.07.29_riscv64-portable.tar.xz) | 105.4 MiB | `other` |
+| [pwndbg_2026.07.29_s390x-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg_2026.07.29_s390x-portable.tar.xz) | 111.4 MiB | `other` |
+| [pwndbg_2026.07.29_x86_32-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg_2026.07.29_x86_32-portable.tar.xz) | 106.7 MiB | `other` |
+| [pwndbg_2026.07.29_x86_64-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg_2026.07.29_x86_64-portable.tar.xz) | 102.9 MiB | `other` |
+| [pwndbg_2026.07.29_x86_64.apk](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg_2026.07.29_x86_64.apk) | 170.0 MiB | `other` |
 
 ## 流行度
 
-- **Star**: 10,849 · **Fork**: 1,265 · **开放 issue**: 1,356 · **贡献者**: 316
+- **Star**: 10,851 · **Fork**: 1,266 · **开放 issue**: 1,358 · **贡献者**: 316
 
 ## 累计统计
 
-- **发布数**: 26 · **已合并 PR**: 2353 · **开放 PR**: 22 · **已关闭 issue**: 1156 · **开放 issue**: 200 · **提交数**: 3184
+- **发布数**: 26 · **已合并 PR**: 2353 · **开放 PR**: 23 · **已关闭 issue**: 1156 · **开放 issue**: 202 · **提交数**: 3184
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 27 | 9 | 6 | 20 | 66 |
-| 90d | 2026-06-12 | 1 | 77 | 17 | 17 | 24 | 133 |
-| 360d | 2025-09-15 | 5 | 478 | 20 | 114 | 89 | 566 |
+| 30d | 2026-08-11 | 0 | 27 | 10 | 6 | 22 | 66 |
+| 90d | 2026-06-12 | 1 | 77 | 18 | 17 | 26 | 133 |
+| 360d | 2025-09-15 | 5 | 478 | 21 | 114 | 91 | 566 |
 
 ## 代码规模
 
@@ -72,4 +112,4 @@ pwndbg 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:48:48Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:15:02Z._
