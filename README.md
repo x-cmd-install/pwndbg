@@ -14,11 +14,11 @@ x install pwndbg
 
 ## Code insight
 
-Total: **119,142** lines of code across **535** files in the top 5 languages.
+Total: **119,590** lines of code across **535** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 113,841 | 7,238 | 17,113 | 451 |
+| Python | 114,267 | 7,272 | 17,220 | 451 |
 | Sh | 1,645 | 141 | 324 | 27 |
 | C | 1,266 | 218 | 345 | 48 |
 | Nix | 861 | 274 | 73 | 7 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2026.07.29` (2026-07-30)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-14
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 10,862 · **Forks**: 1,266 · **Open issues**: 1,361 · **Contributors**: 316
+- **Stars**: 10,864 · **Forks**: 1,266 · **Open issues**: 1,362 · **Contributors**: 316
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 2358 · **Open PRs**: 25 · **Closed issues**: 1159 · **Open issues**: 202 · **Commits**: 3197
+- **Releases**: 26 · **Merged PRs**: 2363 · **Open PRs**: 22 · **Closed issues**: 1159 · **Open issues**: 203 · **Commits**: 3202
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 32 | 12 | 6 | 19 | 79 |
-| last60d | 2026-07-15 | 1 | 57 | 15 | 12 | 25 | 110 |
-| 90d | 2026-06-15 | 1 | 78 | 20 | 20 | 26 | 146 |
-| last180d | 2026-03-17 | 1 | 173 | 20 | 38 | 37 | 258 |
-| 360d | 2025-09-18 | 5 | 483 | 23 | 117 | 91 | 579 |
-| last720d | 2024-09-23 | 10 | 994 | 25 | 323 | 149 | 1100 |
+| 30d | 2026-08-15 | 0 | 37 | 9 | 6 | 20 | 81 |
+| last60d | 2026-07-16 | 1 | 62 | 12 | 12 | 26 | 104 |
+| 90d | 2026-06-16 | 1 | 83 | 17 | 20 | 27 | 141 |
+| last180d | 2026-03-18 | 1 | 178 | 17 | 38 | 38 | 258 |
+| 360d | 2025-09-19 | 5 | 488 | 20 | 117 | 92 | 579 |
+| last720d | 2024-09-24 | 10 | 999 | 22 | 323 | 150 | 1105 |
 
 ## Release assets
 
@@ -106,15 +106,6 @@ Lowest-scoring checks:
 | [pwndbg_2026.07.29_x86_64-portable.tar.xz](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg_2026.07.29_x86_64-portable.tar.xz) | 102.9 MiB | `other` |
 | [pwndbg_2026.07.29_x86_64.apk](https://github.com/pwndbg/pwndbg/releases/download/2026.07.29/pwndbg_2026.07.29_x86_64.apk) | 170.0 MiB | `other` |
 
-## Distribution status
-
-Reported by **32** distros on [repology.org](https://repology.org/project/pwndbg). **2** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `2026.07.29` | ⚠️ outdated |
-| Alpine edge | `2026.07.29` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for pwndbg lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pwndbg` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -124,4 +115,4 @@ Install metadata for pwndbg lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:54:36Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:58:18Z._
