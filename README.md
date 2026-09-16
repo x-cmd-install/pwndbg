@@ -26,7 +26,7 @@ Total: **119,609** lines of code across **535** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.7 / 10**
+Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2026.07.29` (2026-07-30)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-16
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 10,872 · **Forks**: 1,266 · **Open issues**: 1,364 · **Contributors**: 317
+- **Stars**: 10,875 · **Forks**: 1,266 · **Open issues**: 1,364 · **Contributors**: 318
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 2365 · **Open PRs**: 20 · **Closed issues**: 1166 · **Open issues**: 198 · **Commits**: 3204
+- **Releases**: 26 · **Merged PRs**: 2366 · **Open PRs**: 21 · **Closed issues**: 1167 · **Open issues**: 197 · **Commits**: 3206
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 38 | 7 | 10 | 18 | 83 |
-| last60d | 2026-07-17 | 1 | 63 | 10 | 17 | 23 | 106 |
-| 90d | 2026-06-17 | 1 | 85 | 15 | 25 | 24 | 143 |
-| last180d | 2026-03-19 | 1 | 180 | 15 | 45 | 33 | 260 |
-| 360d | 2025-09-20 | 5 | 487 | 18 | 124 | 87 | 581 |
-| last720d | 2024-09-25 | 10 | 998 | 20 | 328 | 145 | 1106 |
+| 30d | 2026-08-17 | 0 | 38 | 8 | 11 | 17 | 85 |
+| last60d | 2026-07-18 | 1 | 64 | 11 | 18 | 22 | 108 |
+| 90d | 2026-06-18 | 1 | 85 | 16 | 26 | 22 | 145 |
+| last180d | 2026-03-20 | 1 | 181 | 16 | 46 | 32 | 262 |
+| 360d | 2025-09-21 | 5 | 488 | 19 | 125 | 86 | 583 |
+| last720d | 2024-09-26 | 10 | 999 | 21 | 328 | 144 | 1107 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for pwndbg lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T04:56:23Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T04:47:06Z._
