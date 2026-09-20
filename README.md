@@ -4,7 +4,7 @@
 
 Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 
-![pwndbg](https://repo.x-cmd.io/pwndbg.svg)
+[![x-cmd/install — pwndbg Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pwndbg.svg)](https://x-cmd.com/install/pwndbg)
 
 ## Install
 
@@ -18,7 +18,7 @@ Total: **119,609** lines of code across **535** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 114,286 | 7,279 | 17,224 | 451 |
+| Python | 114,286 | 7,280 | 17,224 | 451 |
 | Sh | 1,645 | 141 | 324 | 27 |
 | C | 1,266 | 218 | 345 | 48 |
 | Nix | 861 | 274 | 73 | 7 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2026.07.29` (2026-07-30)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-18
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 10,871 · **Forks**: 1,267 · **Open issues**: 1,364 · **Contributors**: 318
+- **Stars**: 10,872 · **Forks**: 1,270 · **Open issues**: 1,365 · **Contributors**: 318
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 2366 · **Open PRs**: 22 · **Closed issues**: 1167 · **Open issues**: 197 · **Commits**: 3206
+- **Releases**: 26 · **Merged PRs**: 2367 · **Open PRs**: 24 · **Closed issues**: 1169 · **Open issues**: 196 · **Commits**: 3207
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 38 | 8 | 11 | 16 | 85 |
-| last60d | 2026-07-20 | 1 | 59 | 11 | 18 | 22 | 108 |
-| 90d | 2026-06-20 | 1 | 85 | 16 | 26 | 22 | 145 |
-| last180d | 2026-03-22 | 1 | 179 | 16 | 46 | 31 | 262 |
-| 360d | 2025-09-23 | 5 | 487 | 20 | 125 | 86 | 583 |
-| last720d | 2024-09-28 | 10 | 999 | 22 | 328 | 144 | 1106 |
+| 30d | 2026-08-21 | 0 | 39 | 10 | 12 | 16 | 86 |
+| last60d | 2026-07-22 | 1 | 58 | 13 | 18 | 22 | 109 |
+| 90d | 2026-06-22 | 1 | 85 | 18 | 27 | 22 | 146 |
+| last180d | 2026-03-24 | 1 | 176 | 18 | 47 | 30 | 263 |
+| 360d | 2025-09-25 | 5 | 488 | 22 | 127 | 85 | 584 |
+| last720d | 2024-09-30 | 10 | 1000 | 24 | 330 | 143 | 1107 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for pwndbg lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:54:00Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:52:24Z._
