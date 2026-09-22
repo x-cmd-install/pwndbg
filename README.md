@@ -14,11 +14,11 @@ x install pwndbg
 
 ## Code insight
 
-Total: **119,733** lines of code across **535** files in the top 5 languages.
+Total: **119,839** lines of code across **536** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 114,410 | 7,287 | 17,253 | 451 |
+| Python | 114,516 | 7,289 | 17,286 | 452 |
 | Sh | 1,645 | 141 | 324 | 27 |
 | C | 1,266 | 218 | 345 | 48 |
 | Nix | 861 | 274 | 73 | 7 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,878 · **Forks**: 1,274 · **Open issues**: 1,365 · **Contributors**: 318
+- **Stars**: 10,904 · **Forks**: 1,276 · **Open issues**: 1,365 · **Contributors**: 319
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 2372 · **Open PRs**: 20 · **Closed issues**: 1170 · **Open issues**: 195 · **Commits**: 3212
+- **Releases**: 27 · **Merged PRs**: 2375 · **Open PRs**: 19 · **Closed issues**: 1171 · **Open issues**: 194 · **Commits**: 3215
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 1 | 43 | 7 | 13 | 15 | 71 |
-| last60d | 2026-07-23 | 2 | 62 | 9 | 19 | 21 | 107 |
-| 90d | 2026-06-23 | 2 | 89 | 14 | 28 | 21 | 148 |
-| last180d | 2026-03-25 | 2 | 181 | 14 | 48 | 29 | 258 |
-| 360d | 2025-09-26 | 6 | 492 | 18 | 128 | 84 | 585 |
-| last720d | 2024-10-01 | 11 | 1005 | 20 | 331 | 142 | 1112 |
+| 30d | 2026-08-23 | 1 | 43 | 6 | 14 | 14 | 74 |
+| last60d | 2026-07-24 | 2 | 63 | 9 | 20 | 20 | 110 |
+| 90d | 2026-06-24 | 2 | 92 | 13 | 29 | 20 | 151 |
+| last180d | 2026-03-26 | 2 | 183 | 13 | 47 | 28 | 261 |
+| 360d | 2025-09-27 | 6 | 494 | 17 | 129 | 83 | 588 |
+| last720d | 2024-10-02 | 11 | 1006 | 19 | 332 | 141 | 1115 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for pwndbg lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:50:41Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:55:15Z._
