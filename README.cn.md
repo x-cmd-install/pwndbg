@@ -4,7 +4,7 @@
 
 Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 
-[![x-cmd/install — pwndbg Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pwndbg.svg?lang=zh)](https://x-cmd.com/install/pwndbg)
+[![x-cmd/install — pwndbg Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/pwndbg.svg?lang=zh)](https://x-cmd.com/install/pwndbg)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install pwndbg
 
 ## 流行度
 
-- **Star**: 10,904 · **Fork**: 1,276 · **开放 issue**: 1,365 · **贡献者**: 319
+- **Star**: 10,926 · **Fork**: 1,280 · **开放 issue**: 1,365 · **贡献者**: 320
 
 ## 累计统计
 
-- **发布数**: 27 · **已合并 PR**: 2375 · **开放 PR**: 19 · **已关闭 issue**: 1171 · **开放 issue**: 194 · **提交数**: 3215
+- **发布数**: 27 · **已合并 PR**: 2376 · **开放 PR**: 19 · **已关闭 issue**: 1171 · **开放 issue**: 194 · **提交数**: 3215
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 43 | 6 | 14 | 14 | 74 |
-| last60d | 2026-07-24 | 2 | 63 | 9 | 20 | 20 | 110 |
-| 90d | 2026-06-24 | 2 | 92 | 13 | 29 | 20 | 151 |
-| last180d | 2026-03-26 | 2 | 183 | 13 | 47 | 28 | 261 |
-| 360d | 2025-09-27 | 6 | 494 | 17 | 129 | 83 | 588 |
-| last720d | 2024-10-02 | 11 | 1006 | 19 | 332 | 141 | 1115 |
+| 30d | 2026-08-24 | 1 | 41 | 6 | 13 | 13 | 74 |
+| last60d | 2026-07-25 | 2 | 63 | 9 | 20 | 20 | 110 |
+| 90d | 2026-06-25 | 2 | 91 | 13 | 29 | 20 | 151 |
+| last180d | 2026-03-27 | 2 | 182 | 13 | 47 | 28 | 261 |
+| 360d | 2025-09-28 | 6 | 493 | 17 | 129 | 83 | 588 |
+| last720d | 2024-10-03 | 11 | 1007 | 19 | 332 | 141 | 1113 |
 
 ## Release 资产
 
@@ -115,4 +115,4 @@ pwndbg 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:55:16Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:59:37Z._
