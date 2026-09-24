@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 152055029,
       "digest": "sha256:a81deb8749b3211653c8f9508636176726c0a3c8b853de1ff40f2759cc1e5942",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-09-15T22:39:31Z",
       "updated_at": "2026-09-15T22:39:36Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg-2026.09.15-1-aarch64.pkg.tar.zst"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 154752382,
       "digest": "sha256:6fe76d41e602f53f83637019c369d13a072bbf6f6d450bc58030bf7c93af251f",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-09-15T22:12:04Z",
       "updated_at": "2026-09-15T22:12:08Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg-2026.09.15-1-x86_64.pkg.tar.zst"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 176433424,
       "digest": "sha256:aab86a650c24c3e5645f617a869e4dd3f8584b42479cdc924b2580f84474ea76",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-15T22:37:12Z",
       "updated_at": "2026-09-15T22:37:18Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg-2026.09.15-1.aarch64.rpm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 179519007,
       "digest": "sha256:0bb16a567b06a0bf8ea3c599af6a5738c11e0fc366c10202d4e706f6585d944b",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-15T22:33:25Z",
       "updated_at": "2026-09-15T22:33:31Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg-2026.09.15-1.x86_64.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 205016875,
       "digest": "sha256:9d774cce1b82e43e025f044687d2ab2656f76a9462f2cac4cd237431bb45d867",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-09-15T22:38:46Z",
       "updated_at": "2026-09-15T22:38:53Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg-lldb-2026.09.15-1-aarch64.pkg.tar.zst"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 208554385,
       "digest": "sha256:5ab058e0b7144faa0d88cdeead325b116404700b1558aed66e39e9731c4a36d9",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-09-15T22:30:31Z",
       "updated_at": "2026-09-15T22:30:38Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg-lldb-2026.09.15-1-x86_64.pkg.tar.zst"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 234725099,
       "digest": "sha256:55112db30fc7410c879ac3e8569a5175f527c3d776c245c042caf0cd6573f0e0",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-15T22:36:50Z",
       "updated_at": "2026-09-15T22:36:59Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg-lldb-2026.09.15-1.aarch64.rpm"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 238133819,
       "digest": "sha256:4c62d6676b2fe76498353b093705991de9e5764dc43d2d1bfafd6542829de646",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-15T22:38:59Z",
       "updated_at": "2026-09-15T22:39:06Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg-lldb-2026.09.15-1.x86_64.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 233104557,
       "digest": "sha256:6ca1e23555399efe16f5914fd67ae5ac034755ef45105c4e48584097c3f7d3d2",
-      "download_count": 30,
+      "download_count": 32,
       "created_at": "2026-09-15T22:36:28Z",
       "updated_at": "2026-09-15T22:36:34Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg-lldb_2026.09.15_aarch64.apk"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 227101334,
       "digest": "sha256:2af81eedceeda1040263ce5bb083c08f983458483ddab1e76d8b752c2c683bda",
-      "download_count": 23,
+      "download_count": 28,
       "created_at": "2026-09-15T22:35:03Z",
       "updated_at": "2026-09-15T22:35:12Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg-lldb_2026.09.15_amd64.deb"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 126823756,
       "digest": "sha256:7bb7dacc3b7fa217c6e7e59c0c87e359b245d57c1bc8dae3849fb2c6679307cf",
-      "download_count": 37,
+      "download_count": 47,
       "created_at": "2026-09-15T22:32:32Z",
       "updated_at": "2026-09-15T22:32:36Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg-lldb_2026.09.15_macos_arm64-portable.tar.xz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 144460452,
       "digest": "sha256:e1dcd3b836555f48bb70086354af7d7994fd9b58d26859d28e2985eed1dcfeb4",
-      "download_count": 31,
+      "download_count": 35,
       "created_at": "2026-09-15T22:23:32Z",
       "updated_at": "2026-09-15T22:23:37Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg-lldb_2026.09.15_x86_64-portable.tar.xz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 236376624,
       "digest": "sha256:8a0bfe30c3ee2462b982e8f54ba4bec745c85ef3768d34120bf932a053394395",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-09-15T22:33:50Z",
       "updated_at": "2026-09-15T22:33:57Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg-lldb_2026.09.15_x86_64.apk"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 174766346,
       "digest": "sha256:98d3e1b2c423fe400fe96a8d0d81757b6371b4bea183682e9384c63728a24363",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-09-15T22:39:14Z",
       "updated_at": "2026-09-15T22:39:19Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg_2026.09.15_aarch64.apk"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 170323750,
       "digest": "sha256:08f5df53f5ff55ab795a7ae619a8dadf63d8485fb01bdf5d03784d7daf01976b",
-      "download_count": 41,
+      "download_count": 83,
       "created_at": "2026-09-15T22:38:44Z",
       "updated_at": "2026-09-15T22:38:51Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg_2026.09.15_amd64.deb"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 101906716,
       "digest": "sha256:85a1cde60413ca6330b87cec7499bfb00b1ef81ebcceec2022895461c8739875",
-      "download_count": 24,
+      "download_count": 31,
       "created_at": "2026-09-15T22:34:28Z",
       "updated_at": "2026-09-15T22:34:31Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg_2026.09.15_arm64-portable.tar.xz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 168329384,
       "digest": "sha256:7c95a7594a84d6f1ec29d0b88de9511e3655fc4079d6dbf1d638a529a9343c9d",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-09-15T22:35:41Z",
       "updated_at": "2026-09-15T22:35:48Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg_2026.09.15_arm64.deb"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 103451280,
       "digest": "sha256:fe4b1391a7c2b8ba3e9599132c8f8e496889a48a3b8b83a9ea142196549a5c21",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-15T22:45:14Z",
       "updated_at": "2026-09-15T22:45:19Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg_2026.09.15_macos_amd64-portable.tar.xz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 96946584,
       "digest": "sha256:282d7532ea4330e193c33074dd5989115f9ae2e7cf174e73a99fe9faadbc130f",
-      "download_count": 39,
+      "download_count": 52,
       "created_at": "2026-09-15T22:27:17Z",
       "updated_at": "2026-09-15T22:27:21Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg_2026.09.15_macos_arm64-portable.tar.xz"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 108200928,
       "digest": "sha256:7ba64666ee595885ba4b0e073f85e423829103e9fdbe921ba4eef1acd9150803",
-      "download_count": 256,
+      "download_count": 372,
       "created_at": "2026-09-15T22:26:40Z",
       "updated_at": "2026-09-15T22:26:44Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg_2026.09.15_x86_64-portable.tar.xz"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 177846003,
       "digest": "sha256:739a882c154ad7f88edd0f850528c026d260d42a320268a778286ae592e8aab2",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-09-15T22:38:22Z",
       "updated_at": "2026-09-15T22:38:30Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.09.15/pwndbg_2026.09.15_x86_64.apk"
@@ -1338,15 +1338,15 @@
   "body": "**This release brings lots of disassembly improvements: backwards disassembly in context and `nearpc`, better indirect jumps display and `nearpc -f|--function` working without debugging symbols; new `stack-vis` command to visualize stack frames (similarly to `vis-heap-chunks`); emulation working with x64 kernels; `v2p`, `p2v` and `pageinfo` commands displaying full page info; LLDB and portable fixes; improved glibc 2.42-2.44 support and many other!**\r\n\r\nSee below for screenshots and more info!\r\n\r\nAlso, please [sponsor the project to let us keep improving](https://github.com/sponsors/pwndbg)!\r\n\r\nThanks to everyone who made this possible!\r\n\r\n----\r\n\r\n## Quick install\r\n\r\nInstall Pwndbg portable on Linux or macOS (choose one line for GDB or LLDB):\r\n```\r\ncurl --proto '=https' --tlsv1.2 -LsSf 'https://install.pwndbg.re' | sh -s -- -t pwndbg-gdb\r\ncurl --proto '=https' --tlsv1.2 -LsSf 'https://install.pwndbg.re' | sh -s -- -t pwndbg-lldb\r\n```\r\n\r\nHomebrew package (macOS only; choose one line for GDB or LLDB):\r\n\r\n```\r\nbrew install pwndbg/tap/pwndbg-gdb  # only allows for remote debugging of ELFs\r\nbrew install pwndbg/tap/pwndbg-lldb\r\n```\r\n\r\nNix package manager (Linux/macOS; choose one line for GDB or LLDB):\r\n```\r\nnix shell github:pwndbg/pwndbg  # this is pwndbg-gdb\r\nnix shell github:pwndbg/pwndbg#pwndbg-lldb\r\n```\r\n\r\nOther options:\r\n* Want specific distro and architecture package? [Check out setup docs](https://pwndbg.re/stable/setup) and download the specific asset below.\r\n* Want latest development version? See [install from source](https://pwndbg.re/dev/setup/#installing-from-source).\r\n\r\n----\r\n\r\n### Dissasembly improvements\r\n* Pwndbg can now disassemble backwards, which makes lifes easier in many ways (in context disasm it gives info on the stuff before $PC when stopping at a breakpoint or right after a syscall, and in `nearpc` you no longer need to guess addresses to go backwards)\r\n<img width=\"874\" height=\"331\" alt=\"image\" src=\"https://github.com/user-attachments/assets/4879d087-9d75-41e2-a119-67cb1453dfd2\" />\r\n\r\n* The `nearpc -f|--function` now works without debugging symbols. Finally, it now acts as a full replacement for GDB's/LLDB's disass command to disassemble a full function (is guaranteed to work in all cases the underlying command would work). Our disassembly adds all sorts of nice stuff (branch visualization, branch targets, showing strings and  symbols of instruction operands, etc.)\r\n<img width=\"1601\" height=\"552\" alt=\"image\" src=\"https://github.com/user-attachments/assets/b11d7238-55ef-463a-aed3-6e7a309f27b5\" />\r\n\r\n* Indirect jumps are handled much better for x86 PLT. Return (`ret` etc.) instructions and memory-indirect jumps that can segfault are now also handled, visualizing segfaulting ROP chains.\r\n<img width=\"1251\" height=\"288\" alt=\"image\" src=\"https://github.com/user-attachments/assets/5b7027a6-77da-4a90-816c-5bf335d10389\" />\r\n<img width=\"1502\" height=\"642\" alt=\"image\" src=\"https://github.com/user-attachments/assets/3f208e7a-c660-4c44-9341-99537e39e4e3\" />\r\n\r\n* Emulation now works when debugging x64 kernels, so get more perks of our disassembly system (emulated flow of instructions, concrete instructions operands indicated)\r\n\r\n### New `stack-vis` command\r\nThe `stack-vis` command can now be used to visualize the stack frames of current thread in a similar fashion as `vis-heap-chunks` can be used for heap chunks (#3994)\r\n<img width=\"1278\" height=\"603\" alt=\"image\" src=\"https://github.com/user-attachments/assets/74bc0a89-2415-4f36-803b-8e8f5727d0b5\" />\r\n\r\n### Linux kernel debugging\r\n* The `v2p`, `p2v` and `pageinfo` commands now display full page info (vaddr, paddr, and page) (#4057)\r\n\r\n### Others\r\n* Set defauly debuginfod server timeouts (#4079)\r\n* Fixed Glibc >= 2.42 tcache handling (#4133), glibc 2.44 refilling of `AT_RANDOM` (#4054), exithandlers command with glibc 2.44 (#4053), and tcache_max_bytes for glibc 2.42 (#4128)\r\n* Bumped versions of LLDB to 23 and Capstone to 8.0.0 (#4071, #4094)\r\n* Fixed multiple bugs and crashes with pwndbg-lldb and portable\r\n* Breaking change: `pwndbg.dbg_mod.Error` was renamed to `pwndbg.dbg_mod.DebuggerError` (#4034)\r\n\r\n...and many many many others! See full changelog at: https://github.com/pwndbg/pwndbg/compare/2026.07.29...2026.09.15\r\n\r\n----\r\n\r\nAlso thanks to all new contributors: @ksaweryr (#3994), @ChickenisLegit (#4068), @trukwava (#4084), @Eirikwst (#4099), @N3thunt3r69 (#4124), @M4idCat (#4128), @kozabrada123 (#4133)!\r\n\r\n",
   "reactions": {
     "url": "https://api.github.com/repos/pwndbg/pwndbg/releases/389512739/reactions",
-    "total_count": 4,
-    "+1": 0,
+    "total_count": 10,
+    "+1": 1,
     "-1": 0,
-    "laugh": 0,
-    "hooray": 4,
+    "laugh": 1,
+    "hooray": 5,
     "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
+    "heart": 1,
+    "rocket": 1,
+    "eyes": 1
   },
   "mentions_count": 7
 }
