@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2026.09.15` (2026-09-20)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-21
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 11,086 · **Forks**: 1,298 · **Open issues**: 1,380 · **Contributors**: 329
+- **Stars**: 11,088 · **Forks**: 1,300 · **Open issues**: 1,380 · **Contributors**: 329
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 2418 · **Open PRs**: 20 · **Closed issues**: 1194 · **Open issues**: 186 · **Commits**: 3257
+- **Releases**: 27 · **Merged PRs**: 2420 · **Open PRs**: 19 · **Closed issues**: 1194 · **Open issues**: 186 · **Commits**: 3259
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 39 | 9 | 5 | 11 | 42 |
-| last60d | 2026-08-22 | 1 | 86 | 12 | 22 | 22 | 121 |
-| 90d | 2026-07-23 | 2 | 105 | 13 | 31 | 25 | 156 |
-| last180d | 2026-04-24 | 2 | 201 | 17 | 52 | 30 | 281 |
-| 360d | 2025-10-26 | 4 | 506 | 18 | 130 | 81 | 594 |
-| last720d | 2024-10-31 | 11 | 1032 | 20 | 344 | 136 | 1133 |
+| 30d | 2026-09-22 | 0 | 41 | 8 | 5 | 11 | 44 |
+| last60d | 2026-08-23 | 1 | 86 | 11 | 22 | 22 | 123 |
+| 90d | 2026-07-24 | 2 | 106 | 12 | 31 | 25 | 158 |
+| last180d | 2026-04-25 | 2 | 202 | 16 | 52 | 30 | 283 |
+| 360d | 2025-10-27 | 4 | 506 | 17 | 130 | 81 | 596 |
+| last720d | 2024-11-01 | 11 | 1034 | 19 | 344 | 136 | 1135 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for pwndbg lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:43:11Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:36:50Z._
