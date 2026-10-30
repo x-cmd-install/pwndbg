@@ -42,8 +42,8 @@
   srcname: pwndbg
   binname: pwndbg
   visiblename: pwndbg
-  version: 2026.09.15
-  origversion: 2026.09.15-r0
+  version: 2026.10.22
+  origversion: 2026.10.22-r0
   status: outdated
   summary: Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
   maintainers:
@@ -55,8 +55,8 @@
   srcname: pwndbg
   binname: pwndbg-doc
   visiblename: pwndbg-doc
-  version: 2026.09.15
-  origversion: 2026.09.15-r0
+  version: 2026.10.22
+  origversion: 2026.10.22-r0
   status: outdated
   summary: Exploit Development and Reverse Engineering with GDB & LLDB Made Easy (documentation)
   maintainers:
@@ -68,8 +68,8 @@
   srcname: pwndbg
   binname: pwndbg-pyc
   visiblename: pwndbg-pyc
-  version: 2026.09.15
-  origversion: 2026.09.15-r0
+  version: 2026.10.22
+  origversion: 2026.10.22-r0
   status: outdated
   summary: Precompiled Python bytecode for pwndbg
   maintainers:
