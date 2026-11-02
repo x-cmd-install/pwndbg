@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 2434 · **Open PRs**: 29 · **Closed issues**: 1196 · **Open issues**: 187 · **Commits**: 3274
+- **Releases**: 29 · **Merged PRs**: 2434 · **Open PRs**: 31 · **Closed issues**: 1196 · **Open issues**: 187 · **Commits**: 3274
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 2 | 48 | 17 | 3 | 8 | 48 |
-| last60d | 2026-09-02 | 3 | 85 | 20 | 15 | 23 | 93 |
-| 90d | 2026-08-03 | 3 | 107 | 22 | 30 | 26 | 157 |
-| last180d | 2026-05-05 | 4 | 203 | 26 | 50 | 32 | 275 |
-| 360d | 2025-11-06 | 6 | 511 | 27 | 126 | 82 | 599 |
-| last720d | 2024-11-11 | 13 | 1033 | 29 | 336 | 136 | 1131 |
+| 30d | 2026-10-03 | 2 | 48 | 19 | 3 | 8 | 48 |
+| last60d | 2026-09-03 | 3 | 85 | 22 | 14 | 21 | 93 |
+| 90d | 2026-08-04 | 3 | 106 | 24 | 30 | 26 | 157 |
+| last180d | 2026-05-06 | 4 | 203 | 28 | 50 | 32 | 275 |
+| 360d | 2025-11-07 | 6 | 509 | 29 | 126 | 82 | 599 |
+| last720d | 2024-11-12 | 13 | 1033 | 31 | 336 | 135 | 1131 |
 
 ## Release assets
 
@@ -113,7 +113,7 @@ Reported by **32** distros on [repology.org](https://repology.org/project/pwndbg
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `2026.09.15` | ⚠️ outdated |
-| Alpine edge | `2026.10.22` | ⚠️ outdated |
+| Alpine edge | `2026.10.28` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -124,4 +124,4 @@ Install metadata for pwndbg lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:00:58Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:00:56Z._
