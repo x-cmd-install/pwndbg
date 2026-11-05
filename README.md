@@ -26,7 +26,7 @@ Total: **122,010** lines of code across **559** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.7 / 10**
+Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,143 · **Forks**: 1,309 · **Open issues**: 1,385 · **Contributors**: 331
+- **Stars**: 11,151 · **Forks**: 1,312 · **Open issues**: 1,385 · **Contributors**: 331
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 2 | 51 | 18 | 5 | 8 | 52 |
-| last60d | 2026-09-05 | 3 | 83 | 22 | 14 | 21 | 97 |
-| 90d | 2026-08-06 | 3 | 110 | 24 | 31 | 26 | 161 |
-| last180d | 2026-05-08 | 4 | 203 | 28 | 50 | 32 | 279 |
-| 360d | 2025-11-09 | 6 | 511 | 29 | 128 | 81 | 603 |
-| last720d | 2024-11-14 | 13 | 1031 | 31 | 336 | 134 | 1132 |
+| 30d | 2026-10-06 | 2 | 50 | 17 | 5 | 7 | 52 |
+| last60d | 2026-09-06 | 3 | 80 | 22 | 12 | 21 | 97 |
+| 90d | 2026-08-07 | 3 | 110 | 24 | 31 | 26 | 161 |
+| last180d | 2026-05-09 | 4 | 202 | 28 | 50 | 31 | 279 |
+| 360d | 2025-11-10 | 6 | 510 | 29 | 128 | 81 | 603 |
+| last720d | 2024-11-15 | 13 | 1028 | 31 | 335 | 134 | 1131 |
 
 ## Release assets
 
@@ -124,4 +124,4 @@ Install metadata for pwndbg lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:15:37Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:38:10Z._
