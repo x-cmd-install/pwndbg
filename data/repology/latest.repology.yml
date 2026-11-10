@@ -1,36 +1,3 @@
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: pwndbg
-  binname: pwndbg
-  visiblename: pwndbg
-  version: 2026.09.15
-  origversion: 2026.09.15-1
-  status: outdated
-  summary: Makes debugging with GDB suck less
-  licenses:
-    - MIT
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: pwndbg
-  binname: pwndbg
-  visiblename: pwndbg
-  version: 2026.07.29
-  origversion: 2026.07.29-1
-  status: outdated
-  summary: Makes debugging with GDB suck less
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: pwndbg
-  binname: pwndbg
-  visiblename: pwndbg
-  version: 2026.09.15
-  origversion: 2026.09.15-1
-  status: outdated
-  summary: Makes debugging with GDB suck less
-  licenses:
-    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: pwndbg
@@ -124,8 +91,8 @@
   srcname: pwndbg-bin
   binname: pwndbg-bin
   visiblename: pwndbg-bin
-  version: 2026.09.15
-  origversion: 2026.09.15-1
+  version: 2026.10.28
+  origversion: 2026.10.28-1
   status: outdated
   summary: Exploit Development and Reverse Engineering with GDB Made Easy (isolated install)
   maintainers:
@@ -211,19 +178,6 @@
     - MIT
   categories:
     - dev-debug
-- repo: nix_stable_24_05
-  srcname: pwndbg
-  visiblename: pwndbg
-  version: 2024.02.14
-  origversion: null
-  status: outdated
-  summary: Exploit Development and Reverse Engineering with GDB Made Easy
-  maintainers:
-    - joerg@thalheim.io
-    - patryk.sondej@gmail.com
-    - moritz.sanft@outlook.de
-  licenses:
-    - MIT
 - repo: gentoo
   srcname: dev-debug/pwndbg
   visiblename: dev-debug/pwndbg
@@ -378,6 +332,52 @@
     - MIT
   categories:
     - dev-debug
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: pwndbg
+  binname: pwndbg
+  visiblename: pwndbg
+  version: 2026.07.29
+  origversion: 2026.07.29-1
+  status: outdated
+  summary: Makes debugging with GDB suck less
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: pwndbg
+  binname: pwndbg
+  visiblename: pwndbg
+  version: 2026.09.15
+  origversion: 2026.09.15-1
+  status: outdated
+  summary: Makes debugging with GDB suck less
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: pwndbg
+  binname: pwndbg
+  visiblename: pwndbg
+  version: 2026.09.15
+  origversion: 2026.09.15-1
+  status: outdated
+  summary: Makes debugging with GDB suck less
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: pwndbg
+  visiblename: pwndbg
+  version: 2024.02.14
+  origversion: null
+  status: outdated
+  summary: Exploit Development and Reverse Engineering with GDB Made Easy
+  maintainers:
+    - joerg@thalheim.io
+    - patryk.sondej@gmail.com
+    - moritz.sanft@outlook.de
+  licenses:
+    - MIT
 - repo: nix_stable_24_11
   srcname: pwndbg
   visiblename: pwndbg
