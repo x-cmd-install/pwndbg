@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,178 · **Forks**: 1,318 · **Open issues**: 1,386 · **Contributors**: 334
+- **Stars**: 11,184 · **Forks**: 1,320 · **Open issues**: 1,386 · **Contributors**: 334
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 2443 · **Open PRs**: 35 · **Closed issues**: 1202 · **Open issues**: 184 · **Commits**: 3283
+- **Releases**: 29 · **Merged PRs**: 2443 · **Open PRs**: 39 · **Closed issues**: 1202 · **Open issues**: 184 · **Commits**: 3283
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 45 | 19 | 3 | 8 | 52 |
-| last60d | 2026-09-11 | 3 | 77 | 25 | 9 | 18 | 78 |
-| 90d | 2026-08-12 | 3 | 113 | 27 | 31 | 26 | 163 |
-| last180d | 2026-05-14 | 4 | 207 | 32 | 49 | 30 | 281 |
-| 360d | 2025-11-15 | 6 | 512 | 33 | 128 | 79 | 605 |
-| last720d | 2024-11-20 | 13 | 1020 | 35 | 329 | 130 | 1124 |
+| 30d | 2026-10-12 | 2 | 43 | 23 | 3 | 8 | 52 |
+| last60d | 2026-09-12 | 3 | 74 | 29 | 8 | 18 | 78 |
+| 90d | 2026-08-13 | 3 | 113 | 31 | 31 | 26 | 163 |
+| last180d | 2026-05-15 | 4 | 206 | 36 | 49 | 30 | 281 |
+| 360d | 2025-11-16 | 6 | 512 | 37 | 128 | 79 | 605 |
+| last720d | 2024-11-21 | 13 | 1017 | 39 | 327 | 130 | 1119 |
 
 ## Release assets
 
@@ -112,7 +112,7 @@ Reported by **32** distros on [repology.org](https://repology.org/project/pwndbg
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `2026.09.15` | ⚠️ outdated |
+| Arch | `2026.10.28` | ⚠️ outdated |
 | Alpine edge | `2026.10.28` | ⚠️ outdated |
 
 ## Improve this data
@@ -124,4 +124,4 @@ Install metadata for pwndbg lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:16:32Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:06:28Z._
