@@ -359,8 +359,8 @@
   srcname: pwndbg
   binname: pwndbg
   visiblename: pwndbg
-  version: 2026.09.15
-  origversion: 2026.09.15-1
+  version: 2026.10.28
+  origversion: 2026.10.28-1
   status: outdated
   summary: Makes debugging with GDB suck less
   licenses:
