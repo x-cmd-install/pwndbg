@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 159821744,
       "digest": "sha256:5331730dc8890dd79941be0871c10aa4fe24364c3b0b23cf4c5a7c73f57a8dbf",
-      "download_count": 39,
+      "download_count": 40,
       "created_at": "2026-10-28T20:21:09Z",
       "updated_at": "2026-10-28T20:21:13Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.10.28/pwndbg-2026.10.28-1-aarch64.pkg.tar.zst"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 187369133,
       "digest": "sha256:71fe156373399e340881ead0e68ca04ebb5917fe5f974cdfd3c85736e742316f",
-      "download_count": 57,
+      "download_count": 60,
       "created_at": "2026-10-28T20:22:06Z",
       "updated_at": "2026-10-28T20:22:13Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.10.28/pwndbg-2026.10.28-1.x86_64.rpm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 216229805,
       "digest": "sha256:1cf835be520946b38cec9a177fc1978ffa9d855bfca1d8264dd8ea120785985b",
-      "download_count": 38,
+      "download_count": 39,
       "created_at": "2026-10-28T20:22:07Z",
       "updated_at": "2026-10-28T20:22:13Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.10.28/pwndbg-lldb-2026.10.28-1-x86_64.pkg.tar.zst"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 234800902,
       "digest": "sha256:4ccde23d624f562465dc04e94266ee1959b4888dae0591427249919b8c053934",
-      "download_count": 207,
+      "download_count": 214,
       "created_at": "2026-10-28T20:34:23Z",
       "updated_at": "2026-10-28T20:34:30Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.10.28/pwndbg-lldb_2026.10.28_amd64.deb"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 140484704,
       "digest": "sha256:94ce91d981414798bbd9e8f0e7fb062759e8bd98cc14ce12a20c527cdee53857",
-      "download_count": 42,
+      "download_count": 43,
       "created_at": "2026-10-28T20:29:50Z",
       "updated_at": "2026-10-28T20:29:55Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.10.28/pwndbg-lldb_2026.10.28_arm64-portable.tar.xz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 233011066,
       "digest": "sha256:4ec6bc97e22ac33f0a888b826b04c7197ac37de0fe0812826ec3b7cb1f49d094",
-      "download_count": 34,
+      "download_count": 35,
       "created_at": "2026-10-28T20:33:20Z",
       "updated_at": "2026-10-28T20:33:27Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.10.28/pwndbg-lldb_2026.10.28_arm64.deb"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 143630916,
       "digest": "sha256:15d3e508470c6a8564da031502e24aac2a7df301ccb326b97bfe67d9cc344554",
-      "download_count": 38,
+      "download_count": 39,
       "created_at": "2026-10-28T20:55:10Z",
       "updated_at": "2026-10-28T20:55:23Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.10.28/pwndbg-lldb_2026.10.28_macos_amd64-portable.tar.xz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 132389580,
       "digest": "sha256:9c540bffce655aee35977380f272c685bb4c029f62b8d259f958737b20aad91f",
-      "download_count": 178,
+      "download_count": 184,
       "created_at": "2026-10-28T20:36:06Z",
       "updated_at": "2026-10-28T20:36:11Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.10.28/pwndbg-lldb_2026.10.28_macos_arm64-portable.tar.xz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 147995840,
       "digest": "sha256:ff0db8710314992f03108fd8e6cf7b0d27db8ed9d8b29b2798a2b0da38973fe1",
-      "download_count": 167,
+      "download_count": 178,
       "created_at": "2026-10-28T20:28:55Z",
       "updated_at": "2026-10-28T20:29:01Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.10.28/pwndbg-lldb_2026.10.28_x86_64-portable.tar.xz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 244410519,
       "digest": "sha256:c86eb933a7bb1e5864793fad4775f45ad171706fd1681850e74514422cf8abed",
-      "download_count": 49,
+      "download_count": 50,
       "created_at": "2026-10-28T20:33:34Z",
       "updated_at": "2026-10-28T20:33:41Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.10.28/pwndbg-lldb_2026.10.28_x86_64.apk"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 182832261,
       "digest": "sha256:011ae86f9e02af10c95f358a235e6dde111700ab768f68587b749d4c0228fd2b",
-      "download_count": 31,
+      "download_count": 32,
       "created_at": "2026-10-28T20:33:22Z",
       "updated_at": "2026-10-28T20:33:27Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.10.28/pwndbg_2026.10.28_aarch64.apk"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 177829482,
       "digest": "sha256:9606564b819777af7517c1e9f9ddd0f02257e5ebc99b13c39a1ebe740c361285",
-      "download_count": 566,
+      "download_count": 636,
       "created_at": "2026-10-28T20:37:27Z",
       "updated_at": "2026-10-28T20:37:33Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.10.28/pwndbg_2026.10.28_amd64.deb"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 106196048,
       "digest": "sha256:e9be66991de166f6f48b7a63ebb7d43092891c9a65f3a62e436957e7a85002b3",
-      "download_count": 157,
+      "download_count": 166,
       "created_at": "2026-10-28T20:33:35Z",
       "updated_at": "2026-10-28T20:33:39Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.10.28/pwndbg_2026.10.28_arm64-portable.tar.xz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 176062076,
       "digest": "sha256:33d25279d505c28322ca300d8b1bda4689b757c29396d7b62a0bddac5ed2c971",
-      "download_count": 115,
+      "download_count": 130,
       "created_at": "2026-10-28T20:27:01Z",
       "updated_at": "2026-10-28T20:27:06Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.10.28/pwndbg_2026.10.28_arm64.deb"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 108922632,
       "digest": "sha256:1bf13c247527eddc4858839bf8d5c7c3c281027fdf6588157d8b82c718da7eed",
-      "download_count": 46,
+      "download_count": 47,
       "created_at": "2026-10-28T20:56:55Z",
       "updated_at": "2026-10-28T20:57:04Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.10.28/pwndbg_2026.10.28_macos_amd64-portable.tar.xz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 102252632,
       "digest": "sha256:c93acd2bd351cfa839c2fb18f9ee78c7410ad5e1020b85f486262bfeb312e726",
-      "download_count": 172,
+      "download_count": 178,
       "created_at": "2026-10-28T20:42:56Z",
       "updated_at": "2026-10-28T20:43:01Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.10.28/pwndbg_2026.10.28_macos_arm64-portable.tar.xz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 116355880,
       "digest": "sha256:227d8e6b2cf5c12f50fbd3f93530cd8bbd5fe3fed5aed7641c99c85d2dfe5f46",
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2026-10-28T20:34:04Z",
       "updated_at": "2026-10-28T20:34:08Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.10.28/pwndbg_2026.10.28_riscv64-portable.tar.xz"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 110905720,
       "digest": "sha256:17049a23ba8cbcf4780c4bc9b4aeb519f2801ceabe7304b55d3d622acca03b8c",
-      "download_count": 1912,
+      "download_count": 2084,
       "created_at": "2026-10-28T20:37:59Z",
       "updated_at": "2026-10-28T20:38:03Z",
       "browser_download_url": "https://github.com/pwndbg/pwndbg/releases/download/2026.10.28/pwndbg_2026.10.28_x86_64-portable.tar.xz"
