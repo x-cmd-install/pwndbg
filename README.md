@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,207 · **Forks**: 1,323 · **Open issues**: 1,386 · **Contributors**: 334
+- **Stars**: 11,211 · **Forks**: 1,323 · **Open issues**: 1,386 · **Contributors**: 334
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 2 | 39 | 29 | 3 | 7 | 53 |
-| last60d | 2026-09-16 | 3 | 71 | 34 | 8 | 15 | 79 |
-| 90d | 2026-08-17 | 3 | 112 | 37 | 26 | 25 | 164 |
-| last180d | 2026-05-19 | 4 | 204 | 42 | 48 | 30 | 282 |
-| 360d | 2025-11-20 | 6 | 507 | 43 | 124 | 78 | 606 |
-| last720d | 2024-11-25 | 13 | 1011 | 45 | 325 | 129 | 1109 |
+| 30d | 2026-10-17 | 2 | 37 | 29 | 3 | 7 | 25 |
+| last60d | 2026-09-17 | 3 | 71 | 34 | 8 | 15 | 69 |
+| 90d | 2026-08-18 | 3 | 112 | 37 | 25 | 25 | 151 |
+| last180d | 2026-05-20 | 4 | 204 | 42 | 48 | 30 | 275 |
+| 360d | 2025-11-21 | 6 | 505 | 43 | 124 | 78 | 593 |
+| last720d | 2024-11-26 | 13 | 1009 | 45 | 323 | 128 | 1109 |
 
 ## Release assets
 
@@ -108,7 +108,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **32** distros on [repology.org](https://repology.org/project/pwndbg). **2** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **34** distros on [repology.org](https://repology.org/project/pwndbg). **2** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -124,4 +124,4 @@ Install metadata for pwndbg lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:25:18Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:30:11Z._
