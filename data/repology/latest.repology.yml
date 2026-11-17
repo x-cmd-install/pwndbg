@@ -1,16 +1,3 @@
-- repo: nix_stable_24_11
-  srcname: pwndbg
-  visiblename: pwndbg
-  version: 2024.08.29
-  origversion: null
-  status: outdated
-  summary: Exploit Development and Reverse Engineering with GDB Made Easy
-  maintainers:
-    - joerg@thalheim.io
-    - patryk.sondej@gmail.com
-    - moritz.sanft@outlook.de
-  licenses:
-    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: pwndbg
@@ -247,17 +234,6 @@
     - MIT
   categories:
     - dev-debug
-- repo: parabola
-  subrepo: extra
-  srcname: pwndbg
-  binname: pwndbg
-  visiblename: pwndbg
-  version: 2026.09.15
-  origversion: 2026.09.15-1
-  status: outdated
-  summary: Makes debugging with GDB suck less
-  licenses:
-    - MIT
 - repo: liguros_stable
   srcname: dev-debug/pwndbg
   visiblename: dev-debug/pwndbg
@@ -400,8 +376,8 @@
   srcname: pwndbg
   binname: pwndbg
   visiblename: pwndbg
-  version: 2026.09.15
-  origversion: 2026.09.15-1
+  version: 2026.10.28
+  origversion: 2026.10.28-1
   status: outdated
   summary: Makes debugging with GDB suck less
   licenses:
@@ -428,6 +404,30 @@
     - joerg@thalheim.io
     - patryk.sondej@gmail.com
     - moritz.sanft@outlook.de
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: pwndbg
+  visiblename: pwndbg
+  version: 2024.08.29
+  origversion: null
+  status: outdated
+  summary: Exploit Development and Reverse Engineering with GDB Made Easy
+  maintainers:
+    - joerg@thalheim.io
+    - patryk.sondej@gmail.com
+    - moritz.sanft@outlook.de
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: pwndbg
+  binname: pwndbg
+  visiblename: pwndbg
+  version: 2026.09.15
+  origversion: 2026.09.15-1
+  status: outdated
+  summary: Makes debugging with GDB suck less
   licenses:
     - MIT
 - repo: t2
