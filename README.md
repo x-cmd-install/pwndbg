@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,235 · **Forks**: 1,331 · **Open issues**: 1,386 · **Contributors**: 335
+- **Stars**: 11,239 · **Forks**: 1,332 · **Open issues**: 1,386 · **Contributors**: 335
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 2 | 33 | 20 | 2 | 3 | 36 |
-| last60d | 2026-09-22 | 2 | 76 | 28 | 8 | 14 | 80 |
-| 90d | 2026-08-23 | 3 | 121 | 31 | 27 | 23 | 162 |
-| last180d | 2026-05-25 | 4 | 211 | 36 | 50 | 28 | 286 |
-| 360d | 2025-11-26 | 6 | 506 | 36 | 125 | 75 | 604 |
-| last720d | 2024-12-01 | 13 | 1012 | 38 | 319 | 126 | 1110 |
+| 30d | 2026-10-23 | 1 | 33 | 20 | 1 | 3 | 36 |
+| last60d | 2026-09-23 | 2 | 76 | 28 | 8 | 14 | 80 |
+| 90d | 2026-08-24 | 3 | 119 | 31 | 26 | 22 | 162 |
+| last180d | 2026-05-26 | 4 | 211 | 36 | 50 | 28 | 286 |
+| 360d | 2025-11-27 | 6 | 504 | 36 | 125 | 75 | 604 |
+| last720d | 2024-12-02 | 13 | 1011 | 38 | 319 | 126 | 1109 |
 
 ## Release assets
 
@@ -124,4 +124,4 @@ Install metadata for pwndbg lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:00:56Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:52:32Z._
