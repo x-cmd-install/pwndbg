@@ -1,3 +1,25 @@
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: pwndbg
+  binname: pwndbg
+  visiblename: pwndbg
+  version: 2026.10.28
+  origversion: 2026.10.28-1
+  status: outdated
+  summary: Makes debugging with GDB suck less
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: pwndbg
+  binname: pwndbg
+  visiblename: pwndbg
+  version: 2026.10.28
+  origversion: 2026.10.28-1
+  status: outdated
+  summary: Makes debugging with GDB suck less
+  licenses:
+    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: pwndbg
@@ -361,28 +383,6 @@
   categories:
     - dev-debug
 - repo: manjaro_stable
-  subrepo: extra
-  srcname: pwndbg
-  binname: pwndbg
-  visiblename: pwndbg
-  version: 2026.07.29
-  origversion: 2026.07.29-1
-  status: outdated
-  summary: Makes debugging with GDB suck less
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: pwndbg
-  binname: pwndbg
-  visiblename: pwndbg
-  version: 2026.10.28
-  origversion: 2026.10.28-1
-  status: outdated
-  summary: Makes debugging with GDB suck less
-  licenses:
-    - MIT
-- repo: manjaro_unstable
   subrepo: extra
   srcname: pwndbg
   binname: pwndbg
